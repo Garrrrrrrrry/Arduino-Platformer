@@ -10,3 +10,7 @@ This project is a stickman platformer game. First the user has to start the game
  - 4 Digit 7-Segment Display
  - LCD1602 Module
  - Elegoo UNO R3 microcontroller
+
+# Schematic
+
+![image](https://user-images.githubusercontent.com/91359755/213309672-a0b42246-4c46-46f2-b649-5ae49d554699.png)
